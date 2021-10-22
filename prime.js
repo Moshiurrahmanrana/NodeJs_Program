@@ -1,6 +1,6 @@
-const prompt = require('prompt-sync')();
-const number = prompt('Enter a Number: ');
-var num = number;
+//const prompt = require('prompt-sync')();
+//const number = prompt('Enter a Number: ');
+//var num = number;
   
  if(num===1) {
           console.log("its not prime");
